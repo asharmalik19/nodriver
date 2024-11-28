@@ -52,7 +52,7 @@ More complete example
 
 .. code-block::
 
-    import nodriver
+    import nodriver as uc
 
     async def main():
 
